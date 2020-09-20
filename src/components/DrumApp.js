@@ -21,7 +21,7 @@ class DrumMachine extends Component {
 		};
 	}
 	// make handleChange here? dealing with keyboard presses for qwe asd zxc ? then you can force the handleChange on handleCLick maybe?
-	
+
 	handleClick = (e) => {
 		// define method for audio playing from href here (duraiton, etc?)
 		// this.setState
